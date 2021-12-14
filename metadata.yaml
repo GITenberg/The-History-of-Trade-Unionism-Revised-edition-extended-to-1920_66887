@@ -1,0 +1,38 @@
+_repo: The-History-of-Trade-Unionism-Revised-edition-extended-to-1920_66887
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Webb, Beatrice
+    aliases:
+    - Webb, Beatrice Potter
+    - Webb, Mrs. Sidney
+    - Potter, Beatrice
+    - Webb, Mrs. Sydney
+    - Potter, Martha Beatrice
+    - Passfield, Beatrice Potter Webb, Baroness
+    birthdate: 1858
+    deathdate: 1943
+    gutenberg_agent_id: '42231'
+    url: http://www.gutenberg.org/2009/agents/42231
+  - agent_name: Webb, Sidney
+    aliases:
+    - Webb, Sydney
+    - Passfield, Sidney James Webb, Baron
+    birthdate: 1859
+    deathdate: 1947
+    gutenberg_agent_id: '42230'
+    url: http://www.gutenberg.org/2009/agents/42230
+description: ''
+gutenberg_issued: '2021-12-06'
+identifiers:
+  gutenberg: '66887'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The History of Trade Unionism
+
+  Revised edition, extended to 1920'
+url: http://www.gutenberg.org/ebooks/66887
