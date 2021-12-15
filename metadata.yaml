@@ -1,5 +1,8 @@
 _repo: The-History-of-Trade-Unionism-Revised-edition-extended-to-1920_66887
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66887-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Webb, Beatrice
@@ -23,6 +26,8 @@ creator:
     gutenberg_agent_id: '42230'
     url: http://www.gutenberg.org/2009/agents/42230
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66887#The-History-of-Trade-Unionism-Revised-edition-extended-to-1920
 gutenberg_issued: '2021-12-06'
 identifiers:
   gutenberg: '66887'
